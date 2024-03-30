@@ -1,0 +1,27 @@
+.img{
+    padding-left: 0%;
+    position: relative;
+    left: 1300px;
+}
+.def{
+    background-color: rgba(0, 0, 0, 0.87);
+}
+.ghi{
+    background-color: rgba(255, 240, 255, 0.384);
+}
+.abc{
+    background-image: url( https://lh3.googleusercontent.com/drive-storage/AJQWtBNmTYpQ7__y4fkaeYVTbYGEiyAPTcxP5xnoITJhXjAhS5AgtI_Vf76np_cFEJPQyAaWXN8aIhNmc0PIRA7CtzNHogLTQeSL12HFB8lc5Q=w1920-h953);
+height: 1000px;
+width: 100%;
+position: relative;
+}
+h1{
+    color: aliceblue;
+margin-left: 500px;
+background-image:url() ;
+}
+h3{ padding-bottom: 1000px;
+    color: aliceblue;
+margin-left: 500px;
+
+}
